@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Runtime.CompilerServices;
 using System.Windows.Forms;
 
-namespace OOP_lab_1
+namespace OOP_lab_3
 {
     public class GameField : Rectangle
     {

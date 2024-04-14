@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Drawing;
 
-namespace OOP_lab_1
+namespace OOP_lab_3
 {
     public class Section : DisplayObject
     {
