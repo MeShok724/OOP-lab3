@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\main\\oop\\lab3\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{837CCB56-15F4-4E7E-8E11-B772B16310BE}|WindowsFormsApp1.csproj|\\\\mac\\home\\desktop\\main\\oop\\lab3\\windowsformsapp1\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837CCB56-15F4-4E7E-8E11-B772B16310BE}|WindowsFormsApp1.csproj|\\\\mac\\home\\desktop\\main\\oop\\lab3\\windowsformsapp1\\menu\\menuitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837CCB56-15F4-4E7E-8E11-B772B16310BE}|WindowsFormsApp1.csproj|\\\\mac\\home\\desktop\\main\\oop\\lab3\\windowsformsapp1\\classes\\displayobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837CCB56-15F4-4E7E-8E11-B772B16310BE}|WindowsFormsApp1.csproj|\\\\mac\\home\\desktop\\main\\oop\\lab3\\windowsformsapp1\\classes\\gamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameField.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\main\\oop\\lab3\\WindowsFormsApp1\\Classes\\GameField.cs",
+              "RelativeDocumentMoniker": "Classes\\GameField.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\main\\oop\\lab3\\WindowsFormsApp1\\Classes\\GameField.cs",
+              "RelativeToolTip": "Classes\\GameField.cs",
+              "ViewState": "AQIAAB0AAADAzMzMzEwswCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:52:15.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisplayObject.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\main\\oop\\lab3\\WindowsFormsApp1\\Classes\\DisplayObject.cs",
+              "RelativeDocumentMoniker": "Classes\\DisplayObject.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\main\\oop\\lab3\\WindowsFormsApp1\\Classes\\DisplayObject.cs",
+              "RelativeToolTip": "Classes\\DisplayObject.cs",
+              "ViewState": "AQIAAAYAAAAgzszMzMwnwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:38:27.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuItems.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\main\\oop\\lab3\\WindowsFormsApp1\\Menu\\MenuItems.cs",
+              "RelativeDocumentMoniker": "Menu\\MenuItems.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\main\\oop\\lab3\\WindowsFormsApp1\\Menu\\MenuItems.cs",
+              "RelativeToolTip": "Menu\\MenuItems.cs",
+              "ViewState": "AQIAAA4AAACAa2ZmZqYswCAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:26:05.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\main\\oop\\lab3\\WindowsFormsApp1\\Menu\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu\\Menu.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\main\\oop\\lab3\\WindowsFormsApp1\\Menu\\Menu.cs",
+              "RelativeToolTip": "Menu\\Menu.cs",
+              "ViewState": "AQIAAFYAAACAaWZmZuYvwGEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:23:40.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
